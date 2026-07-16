@@ -1,0 +1,13 @@
+metric,value
+train_rows,19823.0
+validation_rows,4956.0
+negative_train_reviews,9869.0
+positive_train_reviews,9954.0
+missing_train_texts,0.0
+empty_train_texts,0.0
+extra_duplicate_train_rows,0.0
+train_validation_overlap,0.0
+median_word_count,174.0
+95th_percentile_word_count,595.0
+99th_percentile_word_count,908.7799999999988
+html_review_percentage,58.770115522373004

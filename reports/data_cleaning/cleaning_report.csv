@@ -1,0 +1,16 @@
+metric,value
+original_train_rows,25000
+conflicting_duplicate_groups,0
+conflicting_rows_removed,0
+internal_duplicate_rows_removed,98
+train_test_rows_removed,123
+final_train_rows,19823
+final_validation_rows,4956
+official_test_rows,25000
+final_train_negative,9869
+final_train_positive,9954
+final_validation_negative,2467
+final_validation_positive,2489
+train_validation_overlap,0
+train_test_overlap,0
+validation_test_overlap,0
