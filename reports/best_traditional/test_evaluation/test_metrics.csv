@@ -1,0 +1,9 @@
+metric,value
+accuracy,0.87624
+precision_positive,0.8688048933500627
+recall_positive,0.88632
+f1_positive,0.8774750514810709
+macro_f1,0.8762274239141252
+vectorization_seconds,4.845168100000592
+inference_seconds,1.4345337999984622
+test_rows,25000.0
