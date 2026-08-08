@@ -1,0 +1,3 @@
+model,representation,context_understanding,training_cost,inference_cost,interpretability,deployment_complexity
+TF-IDF + Logistic Regression,Sparse statistical features,Limited,Low,Low,High,Low
+DistilBERT,Contextual token representations,High,High,High,Lower,Higher

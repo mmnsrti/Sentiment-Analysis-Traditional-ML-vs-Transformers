@@ -1,0 +1,8 @@
+metric,value
+accuracy,0.87356
+precision_positive,0.8808416931734768
+recall_positive,0.864
+f1_positive,0.8723395662533824
+test_loss,0.3113505738544464
+test_seconds,39.129423300000326
+test_rows,25000.0
